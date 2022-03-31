@@ -7,7 +7,9 @@ Initial Function()
 
 feature1()
 {
-  //Sample Code for Feature 1
+        int secureFlag = 0;
+        printf(" Check secure check flag");
+      	//Sample Code for Feature 1
 }
 
 
