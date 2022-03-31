@@ -7,6 +7,8 @@ Initial Function()
 
 Initial Security()
 {
+	int secureFlag = 0;
+	printf(" Check secure check flag"):
  //Sample Code
 }
 
